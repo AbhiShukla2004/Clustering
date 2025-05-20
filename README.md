@@ -65,4 +65,4 @@ This project is licensed for educational purposes.
 
 ---
 
-**Developed with ❤️ by Vaibhav Garg**
+
