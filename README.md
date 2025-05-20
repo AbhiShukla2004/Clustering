@@ -1,8 +1,8 @@
 
 # Clustering on Wine Dataset
 
-Author: **Vaibhav Garg**  
-Roll Number: **102203381**
+Author: **Abhinav Shukla**  
+Roll Number: **102203464**
 
 ## Project Overview
 
